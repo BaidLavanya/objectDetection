@@ -1,0 +1,30 @@
+.heading
+{
+font-size: 23px;
+background-color: white;
+width: 100%;
+margin: 0px;
+}
+
+.link, .home {
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 30;
+    background-color: black;
+    width: 200px;
+    color: white;
+    padding: 5;
+}
+
+#status {
+    font-size: 16px;
+}
+
+.link:hover {
+    transform:scale(1.2);
+}
+
+canvas {
+    box-shadow: 5px 5px 5px rosybrown;
+    border: 3px solid whitesmoke;
+}
